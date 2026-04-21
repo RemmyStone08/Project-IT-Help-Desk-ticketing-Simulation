@@ -1,7 +1,5 @@
 # Project-IT-Help-Desk-ticketing-Simulation
 
-=======
-
 📌 Project Overview
 
 This project simulates a real-world IT help desk environment based on hands-on experience managing repair tickets in a production system.
