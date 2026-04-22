@@ -1,31 +1,31 @@
 # Project-IT-Help-Desk-ticketing-Simulation
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project simulates a real-world IT help desk environment based on hands-on experience managing repair tickets in a production system.
 
-It demonstrates the ability to:
+### It demonstrates the ability to:
 
-Log and manage tickets
-Troubleshoot hardware/software issues
-Document resolutions professionally
-Follow a structured ticket lifecycle
+- Log and manage tickets
+- Troubleshoot hardware/software issues
+- Document resolutions professionally
+- Follow a structured ticket lifecycle
 
-🏢 Environment
+## 🏢 Environment
 
 Ticketing System: Simulated (based on real POS/ticket workflow)
 Role: IT Support Technician
 Devices: Laptops, desktops, peripherals
 
-🔄 Ticket Lifecycle
+## 🔄 Ticket Lifecycle
 
-Ticket Created (Customer reports issue)
-Ticket Assigned (Technician begins work)
-Troubleshooting & Diagnosis
-Resolution Applied
-Ticket Closed with Notes
+1. Ticket Created (Customer reports issue)
+2. Ticket Assigned (Technician begins work)
+3. Troubleshooting & Diagnosis
+4. Resolution Applied
+5. Ticket Closed with Notes
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 Incident Management
 Troubleshooting Methodology
